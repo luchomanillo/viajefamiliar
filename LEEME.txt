@@ -1,0 +1,10 @@
+PASOS PARA PUBLICAR (sin instalar nada)
+1. En github.com creá un repositorio nuevo (puede ser público).
+2. "Add file" > "Upload files" y arrastrá TODOS los archivos de esta carpeta
+   (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, robots.txt).
+   El LEEME.txt no hace falta subirlo.
+3. Settings > Pages > Source: "Deploy from a branch" > Branch: main, carpeta "/ (root)" > Save.
+4. A los pocos minutos queda el link: https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/
+5. Abrilo, poné la clave y, en el celular, "Agregar a pantalla de inicio".
+   Abrila una vez con internet para que después funcione sin conexión.
+No subas nunca la versión sin cifrar (src/index.html del otro zip).
